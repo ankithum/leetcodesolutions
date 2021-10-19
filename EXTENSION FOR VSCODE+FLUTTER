@@ -1,0 +1,45 @@
+PUBSPEC_ASSIST--------
+
+     ctrl+shipt+p(open command palette)
+     search pubspec_assist and click on it
+     now search the desired dependency and
+     then it will show some options related to to our searched dependency then select desired package or dependency.
+
+
+
+
+ADVANCED_NEW_FILE------------------------
+     used to create new file
+     ctrl+alt+n
+     this will give us options for new file path and name
+     
+     
+   
+   
+BRAKCET_PAIR_COLORISER----------------
+
+
+
+
+
+BLOC-----------------------------------------
+
+     right click on folder where we want to create all required files of bloc then click on option "bloc" from options
+     now choose the name of bloc files
+     
+     
+
+
+BETTER_COMMENT or TODO_TREE---------------------------
+
+       helps in highlighting comments in diffrent colors
+       -TODO
+       -FIXME
+       
+       now we can see all these comments by clicking on in "todo tree" icon
+     
+     
+    
+ 
+     
+     
